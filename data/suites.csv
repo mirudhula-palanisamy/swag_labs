@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1330","End-to-End Checkout Flow","chromium","Sat Jun 28 07:36:17 UTC 2025","passed","Sat Jun 28 07:36:18 UTC 2025","","swag.spec.js","",""
+"","4478","End-to-End Checkout Flow","webkit","Sat Jun 28 07:36:23 UTC 2025","passed","Sat Jun 28 07:36:28 UTC 2025","","swag.spec.js","",""
+"","2185","End-to-End Checkout Flow","firefox","Sat Jun 28 07:36:19 UTC 2025","passed","Sat Jun 28 07:36:21 UTC 2025","","swag.spec.js","",""
